@@ -2,9 +2,9 @@
 # HyjUtil
 
 ## 介绍
-我的Java个人开发小工具：定时触发器 包扫描 参数构造器 hibernate核心(ORM) 数据库链接工具 配置文件(xml properties)解析等。
+我的Java个人开发小工具：定时触发器 包扫描 参数构造器 数据库链接工具 配置文件(xml properties)解析 基础图形界面工具 Hibernate核心(ORM) 等。
 
-My personal development gadgets: Timing Trigger,Package Scanner,Argument Maker,Hibernate core(ORM),Database linking tool,Configuration file (xml properties) Parser etc.
+My personal development gadgets: Timing Trigger,Package Scanner,Argument Maker,Database linking tool,Configuration file (xml properties) Parser,Basic GUI Tools,Hibernate core(ORM),etc.
 
 ## 软件架构
 基于java8开发，java11已测试 完美运行，java8以下不保证工具的完整性
